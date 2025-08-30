@@ -1,0 +1,7 @@
+
+GCP_PROJECT = ""
+GCP_DATASET = ""
+GCP_TABLE = ""
+GCP_KIP_VIEW = ""
+
+N8N_API_URL = ""
